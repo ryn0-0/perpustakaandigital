@@ -3,16 +3,16 @@ Selamat Datang di Perpustakaan Digital
 Perpustakaan ini menyediakan koleksi ebook yang dapat diakses secara gratis untuk mendukung kegiatan membaca dan menambah wawasan.
 Berikut ini adalah Koleksi yang dimiliki:
 ## Daftar Koleksi Ebook
-1. [Alice's Adventures in Wonderland - Lewis Carroll](ebook/Alice’s Adventures in Wonderland.pdf)
-2. [Pride and Prejudice - Jane Austen](ebook/Pride and Prejudice.pdf)
-3. [Frankenstein - Mary Shelley](https://www.gutenberg.org/ebooks/84)
-4. [The Adventures of Sherlock Holmes - Arthur Conan Doyle](https://www.gutenberg.org/ebooks/1661)
-5. [Moby-Dick - Herman Melville](https://www.gutenberg.org/ebooks/2701)
-6. [A Tale of Two Cities - Charles Dickens](https://www.gutenberg.org/ebooks/98)
-7. [Great Expectations - Charles Dickens](https://www.gutenberg.org/ebooks/1400)
-8. [Dracula - Bram Stoker](https://www.gutenberg.org/ebooks/345)
-9. [Jane Eyre - Charlotte Bronte](https://www.gutenberg.org/ebooks/1260)
-10. [Adventures of Huckleberry Finn - Mark Twain](https://www.gutenberg.org/ebooks/76)
+1. [Alice's Adventures in Wonderland - Lewis Carroll](ebook/Alice%E2%80%99s%20Adventures%20in%20Wonderland.pdf)
+2. [Pride and Prejudice - Jane Austen](ebook/Pride%20and%20Prejudice.pdf)
+3. [Frankenstein - Mary Shelley](ebook/Frankenstein.pdf)
+4. [The Adventures of Sherlock Holmes - Arthur Conan Doyle](ebook/The%20Adventures%20of%20Sherlock%20Holmes.pdf)
+5. [Moby-Dick - Herman Melville](ebook/Moby-Dick.pdf)
+6. [A Tale of Two Cities - Charles Dickens](ebook/A%20Tale%20of%20Two%20Cities.pdf)
+7. [Great Expectations - Charles Dickens](ebook/Great%20Expectations.pdf)
+8. [Dracula - Bram Stoker](ebook/Dracula.pdf)
+9. [Jane Eyre - Charlotte Bronte](ebook/Jane%20Eyre.pdf)
+10. [Adventures of Huckleberry Finn - Mark Twain](ebook/Adventures%20of%20Huckleberry%20Finn.pdf)
 11. Ringkasan UGC
 ## Sumber koleksi: Project Gutenberg 
 Seluruh tautan ebook di atas mengarah ke halaman koleksi buku yang menyediakan fitur membaca secara online.
