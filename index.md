@@ -3,8 +3,8 @@ Selamat Datang di Perpustakaan Digital
 Perpustakaan ini menyediakan koleksi ebook yang dapat diakses secara gratis untuk mendukung kegiatan membaca dan menambah wawasan.
 Berikut ini adalah Koleksi yang dimiliki:
 ## Daftar Koleksi Ebook
-1. [Alice's Adventures in Wonderland - Lewis Carroll](https://www.gutenberg.org/ebooks/11)
-2. [Pride and Prejudice - Jane Austen](https://www.gutenberg.org/ebooks/1342)
+1. [Alice's Adventures in Wonderland - Lewis Carroll](ebook/Alice’s Adventures in Wonderland.pdf)
+2. [Pride and Prejudice - Jane Austen](ebook/Pride and Prejudice.pdf)
 3. [Frankenstein - Mary Shelley](https://www.gutenberg.org/ebooks/84)
 4. [The Adventures of Sherlock Holmes - Arthur Conan Doyle](https://www.gutenberg.org/ebooks/1661)
 5. [Moby-Dick - Herman Melville](https://www.gutenberg.org/ebooks/2701)
