@@ -13,4 +13,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Dracula - Bram Stoker](ebook/Dracula.pdf)
 9. [Jane Eyre - Charlotte Bronte](ebook/Jane%20Eyre.pdf)
 10. [Adventures of Huckleberry Finn - Mark Twain](ebook/Adventures%20of%20Huckleberry%20Finn.pdf)
-11. [Ringkasan UGC](Ringkasan%20UGC.pdf)
+11. [Ringkasan UGC](ebook/Ringkasan%20UGC.pdf)
