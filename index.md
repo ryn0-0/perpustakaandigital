@@ -13,6 +13,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Dracula - Bram Stoker](ebook/Dracula.pdf)
 9. [Jane Eyre - Charlotte Bronte](ebook/Jane%20Eyre.pdf)
 10. [Adventures of Huckleberry Finn - Mark Twain](ebook/Adventures%20of%20Huckleberry%20Finn.pdf)
-11. Ringkasan UGC
-## Sumber koleksi: Project Gutenberg 
-Seluruh tautan ebook di atas mengarah ke halaman koleksi buku yang menyediakan fitur membaca secara online.
+11. [Ringkasan UGC](ringkasan-ugc.pdf)
